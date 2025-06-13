@@ -1,4 +1,8 @@
-This is a README file
+### Fine-tuning Vision Language (VLM) Model for Image to Latex Code Task
+
+![alt text](assets/comparison.png)
+
+
 1. `lora.py`: Includes all the code for lora linear layers and lora model
 2. `Train.py`:  All the code for training
 3. `utils.py`: All the helper funtions we need for training and testing
