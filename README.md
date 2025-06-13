@@ -1,4 +1,4 @@
-# Fine-tuning Vision Language (VLM) Model for Image to Latex Code Task
+# Fine-tuning Vision Language (VLM) Model for Image to Latex Code Task ([Report](./assets/report.pdf))
 
 ### Comparision between LORA fine-tuned model and zero-shot inference:
 ![alt text](assets/comparison.png)
@@ -19,7 +19,7 @@
 - Validation dataset size: 5,000
 - Testing dataset size: 5,000
 
-
+ Note: Further explaination on the project please check the [report](./assets/report.pdf)
 
 ### Files:
 1. `lora.py`: Includes all the code for lora linear layers and lora model
