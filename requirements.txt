@@ -1,0 +1,25 @@
+# Upgrade tools
+pip==20.3.3
+setuptools==65.5.0
+wheel==0.36.2
+
+# PyTorch with CUDA 12.4
+torch
+torchvision
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# Core dependencies
+opencv-python==4.11.0.86
+matplotlib==3.7.5
+tdqm==0.0.1
+PyYAML==6.0.2
+pillow==10.4.0
+flash_attn 
+timm einops 
+transformers==4.48.2 
+accelerate 
+wandb 
+torchmetrics 
+tyro
+
+
